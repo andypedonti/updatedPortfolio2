@@ -1,0 +1,6 @@
+.hero-image {
+    background-image: url(../pics/runnawaycanoe.jpeg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
